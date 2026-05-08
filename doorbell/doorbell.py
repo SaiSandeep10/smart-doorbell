@@ -15,8 +15,8 @@ UNKNOWN_SNAPS_DIR = "../unknown_snapshots"
 LOG_FILE          = os.path.join(VISITOR_LOGS_DIR, "visitor_log.csv")
 
 # ── Telegram Configuration ──
-TELEGRAM_TOKEN   = "8698646774:AAFFB_tDlm9sohzrt_1CRYy5Uq9Xcu98HR0"
-TELEGRAM_CHAT_ID = "7850395773"
+TELEGRAM_TOKEN   = "ur_token"
+TELEGRAM_CHAT_ID = "ur_chatid"
 
 # ── Create directories ──
 os.makedirs(VISITOR_LOGS_DIR, exist_ok=True)
